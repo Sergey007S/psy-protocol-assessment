@@ -34,7 +34,7 @@ The relevant question is:
 **Can an independent third party reproduce and test the benchmark using the published artifacts, without relying on Psy's internal environment or interpretation?**
 That is the standard I attempted to apply.
 
-![Psy Protocol public statement](screenshot_1_1.png)
+screenshots/screenshot_1_1.png
 
 *Psy Protocol public statement: independent verification + US$100,000 bounty*
 
