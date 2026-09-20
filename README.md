@@ -2,6 +2,13 @@
 
 **Assessment date:** August 2026
 
+## Additional Documentation
+
+- [Public Artifacts](artifacts.md)
+- [Timeline of Key Events](timeline.md)
+- [Industry Engagement](engagement.md)
+
+
 ### Primary sources:
 *   **Psy Protocol benchmark announcement (521k TPS):** [https://x.com/PsyProtocol/article/2019547399312797864](https://x.com/PsyProtocol/article/2019547399312797864)
 *   **Psy Protocol $100,000 bounty announcement:** [https://x.com/PsyProtocol/status/2021615736238796967](https://x.com/PsyProtocol/status/2021615736238796967)
