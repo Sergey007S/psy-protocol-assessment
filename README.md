@@ -48,7 +48,7 @@ That is the standard I attempted to apply.
 The public surface exposes benchmark-related information, including the reported TPS result and block-level data. The explorer also exposes proof-related information and a verification flow. This is useful evidence.
 However, it does not by itself provide the complete experimental state required to reproduce a benchmark. During the investigation, the practical verification path led to a selected block rather than a complete reproducible benchmark dataset. Psy's own communication also described the block used for the benchmark as a representative block.
 
-![Psy Discord response](screenshot_2_1.png)
+![Psy Discord response](screenshots/screenshot_2_1.png)
 *Psy Discord response regarding the representative benchmark block.*
 
 Public visibility of benchmark-related artifacts is not equivalent to benchmark reproducibility. A verifier may be able to inspect a selected benchmark block, proof-related interfaces, or benchmark statistics. That does not automatically provide the complete experimental state required to independently reproduce the reported benchmark result.
@@ -74,11 +74,11 @@ The specific missing elements requested during the investigation included:
 * TPS distribution statistics;
 * measurable criteria showing why the selected block was representative.
 
-![Public finding March 21](screenshot_3_1.png)
+![Public finding March 21](screenshots/screenshot_3_1.png)
 
 *Public finding (March 21, 2026): no clear path for an external observer to independently reconstruct the benchmark end-to-end.*
 
-![Public finding March 24](screenshot_3_2.png)
+![Public finding March 24](screenshots/screenshot_3_2.png)
 
 *Public finding (March 24, 2026): the 521k TPS figure is based on a single selected block, with no published full dataset or distribution statistics.*
 
@@ -140,7 +140,7 @@ The requested artifacts included:
 4. A reproducible verification workflow.
 A formal bounty claim and technical assessment were submitted based on Psy Protocol's own published benchmark materials, public statements, public responses and publicly accessible data.
 
-![Formal bounty claim](screenshot_6_1.png)
+![Formal bounty claim](screenshots/screenshot_6_1.png)
 
 *Formal public bounty claim (April 20, 2026): structured assessment submitted under Psy Protocol’s published “verifiable by anyone” bounty terms.*
 
